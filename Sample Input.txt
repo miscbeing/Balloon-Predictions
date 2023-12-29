@@ -1,0 +1,9 @@
+Sample Input: (Launch from UMD)
+12/XX/2023 (XX = date that is within your current date and current date + 6 days)
+12:30
+38.9868152886955
+-76.94093580395125
+0
+5
+27000
+60
